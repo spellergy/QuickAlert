@@ -1,0 +1,40 @@
+# Node
+node_modules/
+.env
+dist/
+dist-server/
+dist-client/
+dist-ssr/
+.vercel
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode
+.vscode/
+
+# Project specific
+coverage/
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
