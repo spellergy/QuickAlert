@@ -181,24 +181,3 @@ Detailed API documentation available in the backend repository.
 **Anushka Soni**
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Flutter Development Team
-- React Community
-- Supabase Team
-- Open Source Contributors
-
----
-
-## 🔗 Links
-
-- [Live Demo](https://quickalert-demo.vercel.app)
-- [API Documentation](https://github.com/spellergy/QuickAlert/wiki)
-- [Contributing Guidelines](https://github.com/spellergy/QuickAlert/blob/main/CONTRIBUTING.md)
