@@ -177,7 +177,9 @@ Detailed API documentation available in the backend repository.
 ## 👥 Authors
 
 **Kush Saini**
+
 **Arpit Gupta**
+
 **Anushka Soni**
 
 ---
