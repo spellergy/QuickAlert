@@ -123,8 +123,6 @@ npm run dev
 - Node.js/TypeScript
 - Express.js
 - Supabase
-- Zod Validation
-- Multer
 - JWT Authentication
 
 ### Admin Dashboard
