@@ -60,9 +60,9 @@ class _EmergencyScreenState extends State<EmergencyScreen>
                       100.0), // Makes the button large enough to appear circular
                 ),
                 child: const Text(
-                  'SOS',
+                  'QuickAlert',
                   style: TextStyle(
-                    fontSize: 50, // Adjust text size as needed
+                    fontSize: 30, // Adjust text size as needed
                   ),
                 ),
               ),
