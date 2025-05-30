@@ -2,7 +2,7 @@
 
 A comprehensive emergency response ecosystem consisting of a mobile application, admin dashboard, and secure backend server. QuickAlert is designed to provide immediate assistance during emergencies by connecting users with nearby emergency services through an AI-enhanced validation system.
 
-![QuickAlert Banner](QuickAlert-Website-main/public/image.png)
+![QuickAlert Banner](QuickAlert-Website-main/public/image.jpg)
 
 ---
 
